@@ -1,2 +1,2 @@
 # node-express-mongo-crud
-Run npm install firt
+Run npm install first
